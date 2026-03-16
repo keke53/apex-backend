@@ -4,7 +4,8 @@
     "api/claude.js":  { "maxDuration": 60 },
     "api/memory.js":  { "maxDuration": 10 },
     "api/video.js":   { "maxDuration": 10 },
-    "api/train.js":   { "maxDuration": 120 }
+    "api/train.js":   { "maxDuration": 120 },
+    "api/seed.js":    { "maxDuration": 300 }
   },
   "crons": [
     {
